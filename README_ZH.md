@@ -5,7 +5,7 @@
 **PRND Media Randomizer** 让您发布的每个文件都保持唯一。一个桌面工具即可随机化**图片、视频和音频**——几何形状、颜色、叠加元素、元数据、文件日期和名称。非常适合批量私信 / SMM 营销场景（相同附件容易触发限制），也是通过 Telegram PRIME 群发触达更多受众的理想解决方案。
 
 > 本说明还提供其他语言版本：
-> **[EN — English](https://github.com/mediauniq/mediauniq/README.md)** · **[RU — Русский](https://github.com/mediauniq/mediauniq/README_RU.md)**
+> **[EN — English](https://github.com/mediauniq/mediauniq/blob/main/README.md)** · **[RU — Русский](https://github.com/mediauniq/mediauniq/blob/main/README_RU.md)**
 
 ----
 <img width="768" alt="MediaUniq" src="https://github.com/user-attachments/assets/f2b11cf9-c97e-4caf-accc-1cfd41b511fa" />
