@@ -6,7 +6,7 @@
 **PRND Media Randomizer** keeps every file you publish unique. One desktop tool randomizes **images, video and audio** — geometry, colors, overlays, metadata, file dates and names. Ideal for mass DM / SMM campaigns where identical attachments get flagged, and for reaching a wider audience via Telegram PRIME mass messaging.
 
 > This readme is also available in other languages:
-> **[RU — Русский](https://github.com/mediauniq/mediauniq/README_RU.md)** · **[ZH — 中文](https://github.com/mediauniq/mediauniq/README_ZH.md)**
+> **[RU — Русский](https://github.com/mediauniq/mediauniq/blob/main/README_RU.md)** · **[ZH — 中文](https://github.com/mediauniq/mediauniq/blob/main/README_ZH.md)**
 
 ----
 <img width="768" alt="MediaUniq" src="https://github.com/user-attachments/assets/62085a1c-2c20-44a9-87af-f5b03c9a14e5" />
