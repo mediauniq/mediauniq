@@ -1,6 +1,6 @@
 # <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/3ed3ea57-4d17-4e73-a29b-c2dcae386e7f" /> PRND — Media Randomizer
 
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue) ![Version](https://img.shields.io/badge/version-v1.6-success) ![Interface](https://img.shields.io/badge/interface-EN%20%7C%20RU%20%7C%20ZH-orange) ![Engine](https://img.shields.io/badge/engine-FFmpeg-informational)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue) ![Version](https://img.shields.io/badge/version-v1.8-success) ![Interface](https://img.shields.io/badge/interface-EN%20%7C%20RU%20%7C%20ZH-orange) ![Engine](https://img.shields.io/badge/engine-FFmpeg-informational)
 
 
 **PRND Media Randomizer** keeps every file you publish unique. One desktop tool randomizes **images, video and audio** — geometry, colors, overlays, metadata, file dates and names. Ideal for mass DM / SMM campaigns where identical attachments get flagged, and for reaching a wider audience via Telegram PRIME mass messaging.
