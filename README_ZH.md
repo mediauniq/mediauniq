@@ -1,6 +1,6 @@
 # <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/3ed3ea57-4d17-4e73-a29b-c2dcae386e7f" /> PRND — Media Randomizer / 媒体随机化工具
 
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue) ![Version](https://img.shields.io/badge/version-v1.6-success) ![Interface](https://img.shields.io/badge/interface-EN%20%7C%20RU%20%7C%20ZH-orange) ![Engine](https://img.shields.io/badge/engine-FFmpeg-informational)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue) ![Version](https://img.shields.io/badge/version-v1.8-success) ![Interface](https://img.shields.io/badge/interface-EN%20%7C%20RU%20%7C%20ZH-orange) ![Engine](https://img.shields.io/badge/engine-FFmpeg-informational)
 
 **PRND Media Randomizer** 让您发布的每个文件都保持唯一。一个桌面工具即可随机化**图片、视频和音频**——几何形状、颜色、叠加元素、元数据、文件日期和名称。非常适合批量私信 / SMM 营销场景（相同附件容易触发限制），也是通过 Telegram PRIME 群发触达更多受众的理想解决方案。
 
