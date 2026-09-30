@@ -1,6 +1,18 @@
+<div align="center">
+
 # <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/3ed3ea57-4d17-4e73-a29b-c2dcae386e7f" /> PRND — Media Randomizer / 媒体随机化工具
 
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue) ![Version](https://img.shields.io/badge/version-v1.8-success) ![Interface](https://img.shields.io/badge/interface-EN%20%7C%20RU%20%7C%20ZH-orange) ![Engine](https://img.shields.io/badge/engine-FFmpeg-informational)
+[![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/mediauniq/)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D6?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxMS4zNzd2MTEuMzcyaC0xMS4zNzd6bTEyLjYyMyAwaDExLjM3N3YxMS4zNzJoLTExLjM3N3pNMCAxMi42MjNoMTEuMzc3VjI0SDBabTEyLjYyMyAwaDExLjM3N1YyNEgxMi42MjN6Ii8+PC9zdmc+)](https://mediauniq.com/)
+![Version](https://img.shields.io/badge/version-v1.9-success?logo=semver&logoColor=white)
+![Interface](https://img.shields.io/badge/interface-EN%20%7C%20RU%20%7C%20ZH-orange?logo=googletranslate&logoColor=white)
+![Engine](https://img.shields.io/badge/engine-FFmpeg-informational?logo=ffmpeg&logoColor=white)
+
+[![Website](https://img.shields.io/badge/website-click_to_open-blue?logo=googlechrome)](https://mediauniq.com/)
+[![License](https://img.shields.io/badge/License-Commercial-red?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE0LDJIMTBWNEgxNFYyTTE5LDRIMTVWNkgxOVY0TTUsNEg5VjZINVY0TTE5LDhIMTVWMTBIMTlWOE01LDhIOVYxMEg1VjhNMTQsOFYxMEgxMFY4SDE0TTUsMTJIOVYxNEg1VjEyTTE5LDEySDE1VjE0SDE5VjEyTTE0LDEySDEwVjE0SDE0VjEyTTUsMTZIOVYxOEg1VjE2TTE5LDE2SDE1VjE4SDE5VjE2TTE0LDE2SDEwVjE4SDE0VjE2TTEyLDIwQzEwLjksMjAgMTAsMTkuMSAxMCwxOEgxNEMxNCwxOS4xIDEzLjEsMjAgMTIsMjBaIi8+PC9zdmc+)](https://mediauniq.com/#access)
+[![Terms & Conditions](https://img.shields.io/badge/Terms%20%26%20Conditions-Informational-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE0IDJIMTBWNEgxNFYyTTUgNEg5VjZINVY0TTE5IDRIMTVWNkgxOVY0TTUgOEg5VjEwSDVWOE0xOSA4SDE1VjEwSDE5VjhNMTQgOEgxMFYxMEgxNFY4TTUgMTJIOVYxNEg1VjEyTTE5IDEySDE1VjE0SDE5VjEyTTE0IDEySDEwVjE0SDE0VjEyTTUgMTZIOVYxOEg1VjE2TTE5IDE2SDE1VjE4SDE5VjE2TTE0IDE2SDEwVjE4SDE0VjE2TTEyIDIwQzEwLjkgMjAgMTAgMTkuMSAxMCAxOEgxNEMxNCAxOS4xIDEzLjEgMjAgMTIgMjBaIi8+PC9zdmc+)](https://mediauniq.com/terms-of-use/)
+
+</div>
 
 **PRND Media Randomizer** 让您发布的每个文件都保持唯一。一个桌面工具即可随机化**图片、视频和音频**——几何形状、颜色、叠加元素、元数据、文件日期和名称。非常适合批量私信 / SMM 营销场景（相同附件容易触发限制），也是通过 Telegram PRIME 群发触达更多受众的理想解决方案。
 
